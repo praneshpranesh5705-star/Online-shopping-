@@ -1,0 +1,3 @@
+# Allow esbuild's native build step needed by Vite and Tailwind.
+allowBuilds:
+  esbuild: true
